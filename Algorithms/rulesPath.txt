@@ -1,0 +1,523 @@
+0 Two_year No ==> No #SUP: 847 #CONF: 0.9848837209302326 #PEARSON: 0.21138284911371247
+Yes Two_year No ==> No #SUP: 808 #CONF: 0.9841656516443362 #PEARSON: 0.20529519217164638
+Two_year No ==> No #SUP: 895 #CONF: 0.9835164835164835 #PEARSON: 0.2171326463894577
+0 Yes Yes Two_year ==> No #SUP: 969 #CONF: 0.9768145161290323 #PEARSON: 0.22208960253063018
+0 Yes Two_year ==> No #SUP: 1063 #CONF: 0.9761248852157943 #PEARSON: 0.23391445203832095
+Yes Yes Two_year ==> No #SUP: 1057 #CONF: 0.9741935483870968 #PEARSON: 0.2315394237591268
+Yes Two_year ==> No #SUP: 1161 #CONF: 0.9739932885906041 #PEARSON: 0.2446922490331937
+Female Two_year ==> No #SUP: 823 #CONF: 0.9739644970414201 #PEARSON: 0.2001462515283124
+0 Two_year ==> No #SUP: 1508 #CONF: 0.9729032258064516 #PEARSON: 0.2866658003309407
+0 Yes Two_year ==> No #SUP: 1362 #CONF: 0.9721627408993576 #PEARSON: 0.2680807291901556
+Two_year ==> No #SUP: 1647 #CONF: 0.9716814159292035 #PEARSON: 0.30225346934965064
+Yes Two_year ==> No #SUP: 1489 #CONF: 0.970664928292047 #PEARSON: 0.28209290013235555
+No Two_year ==> No #SUP: 875 #CONF: 0.9668508287292817 #PEARSON: 0.20195360128900453
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 Yes No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+0 No_internet_service ==> No #SUP: 1366 #CONF: 0.926729986431479 #PEARSON: 0.22383448685505886
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+Yes No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+No_internet_service ==> No #SUP: 1413 #CONF: 0.9259501965923984 #PEARSON: 0.22789044975609365
+0 No ==> No #SUP: 2215 #CONF: 0.8499616270145818 #PEARSON: 0.20018440847506846
+DEFAULT ==> No

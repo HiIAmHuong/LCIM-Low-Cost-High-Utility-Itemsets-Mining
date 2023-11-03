@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="ca.pfv.spmf.algorithms.classifiers.general.Classifier"/>
+<fullyQualifiedTypeName name="ca.pfv.spmf.algorithms.classifiers.acn.AlgoACN"/>
+<fullyQualifiedTypeName name="ca.pfv.spmf.algorithms.classifiers.data.CSVDataset"/>
+</qualifiedTypeNameHistroy>
