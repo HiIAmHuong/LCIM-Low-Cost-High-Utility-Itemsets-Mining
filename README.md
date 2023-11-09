@@ -1,7 +1,12 @@
 # LCIM-Low-Cost-High-Utility-Itemsets-Mining
+![image](https://github.com/HiIAmHuong/LCIM-Low-Cost-High-Utility-Itemsets-Mining/assets/124865073/133a9611-8a54-4b5f-acc7-408eb968a509)
+
+Figure 1: LCIM Algorithm
+
+## Proposed methodology 
 ![image](https://github.com/HiIAmHuong/LCIM-Low-Cost-High-Utility-Itemsets-Mining/assets/124865073/4eac6fa9-50a1-4b48-9ef6-780e37041c8a)
 
-Figure 1. Proposed methodology
+Figure 2. Proposed methodology
 
 As depicted in Figure 1 above, this section delineates the comprehensive methodology employed to accomplish the research objectives. The methodology consists of four meticulous stages, each thoughtfully crafted and executed to ensure the integrity and precision of the results. These stages encompass data selection, exploratory data analysis (EDA), data transformation, algorithmic application, and culminate in conclusive shopping cart and pattern analyses.
 
